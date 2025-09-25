@@ -10,7 +10,10 @@ class Program
 
         string lettergrade = "";
 
-        
+        if (gradepercentage >= 100)
+        {
+            lettergrade = "A+";
+        }
         if (gradepercentage >= 90)
         {
             lettergrade = "A";
