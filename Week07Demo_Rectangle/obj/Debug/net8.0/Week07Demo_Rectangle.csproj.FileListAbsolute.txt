@@ -1,0 +1,15 @@
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\bin\Debug\net8.0\Week07Demo_Rectangle.exe
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\bin\Debug\net8.0\Week07Demo_Rectangle.deps.json
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\bin\Debug\net8.0\Week07Demo_Rectangle.runtimeconfig.json
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\bin\Debug\net8.0\Week07Demo_Rectangle.dll
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\bin\Debug\net8.0\Week07Demo_Rectangle.pdb
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\obj\Debug\net8.0\Week07Demo_Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\obj\Debug\net8.0\Week07Demo_Rectangle.AssemblyInfoInputs.cache
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\obj\Debug\net8.0\Week07Demo_Rectangle.AssemblyInfo.cs
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\obj\Debug\net8.0\Week07Demo_Rectangle.csproj.CoreCompileInputs.cache
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\obj\Debug\net8.0\Week07Demo_Rectangle.sourcelink.json
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\obj\Debug\net8.0\Week07Demo_Rectangle.dll
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\obj\Debug\net8.0\refint\Week07Demo_Rectangle.dll
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\obj\Debug\net8.0\Week07Demo_Rectangle.pdb
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\obj\Debug\net8.0\Week07Demo_Rectangle.genruntimeconfig.cache
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Rectangle\obj\Debug\net8.0\ref\Week07Demo_Rectangle.dll
