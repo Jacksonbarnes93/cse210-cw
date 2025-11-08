@@ -1,0 +1,15 @@
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\bin\Debug\net8.0\Week07Demo_Game.exe
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\bin\Debug\net8.0\Week07Demo_Game.deps.json
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\bin\Debug\net8.0\Week07Demo_Game.runtimeconfig.json
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\bin\Debug\net8.0\Week07Demo_Game.dll
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\bin\Debug\net8.0\Week07Demo_Game.pdb
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\obj\Debug\net8.0\Week07Demo_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\obj\Debug\net8.0\Week07Demo_Game.AssemblyInfoInputs.cache
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\obj\Debug\net8.0\Week07Demo_Game.AssemblyInfo.cs
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\obj\Debug\net8.0\Week07Demo_Game.csproj.CoreCompileInputs.cache
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\obj\Debug\net8.0\Week07Demo_Game.sourcelink.json
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\obj\Debug\net8.0\Week07Demo_Game.dll
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\obj\Debug\net8.0\refint\Week07Demo_Game.dll
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\obj\Debug\net8.0\Week07Demo_Game.pdb
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\obj\Debug\net8.0\Week07Demo_Game.genruntimeconfig.cache
+C:\projects\cse210\cse210-student-template-phillips-2023\sandbox\Week07Demo_Game\obj\Debug\net8.0\ref\Week07Demo_Game.dll
