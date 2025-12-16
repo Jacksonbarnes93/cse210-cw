@@ -5,8 +5,6 @@ public class Product
     private double pricePerUnit;
     private int quantity;
 
-
-
     public Product(string name, string productId, double pricePerUnit, int quantity)
     {
         this.name = name;
